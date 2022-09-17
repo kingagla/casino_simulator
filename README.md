@@ -1,6 +1,6 @@
 # Casino simulator
 
-There is hazard theory that assume following:
+There is hazard theory that assumes following:
 1. Set fix value for bet.
 2. If you loose, then bet again but doubled value.
 3. Repeat 1. and 2. until you win. 
